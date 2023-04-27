@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+##
+
+##
+
+## My Github Stats
+![terrinmack's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrinmack&theme=nightowl&show_icons=true) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrinmack&layout=compact&theme=tokyonight)
 <!--
 **terrinmack/terrinmack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
